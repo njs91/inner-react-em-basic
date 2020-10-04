@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const Intros = (summary) => {
   return (
     <div className='intros'>
-      ERROR HERE: {summary} variable can't be wrapped in curly braces; reason
+      ERROR HERE: summary variable can't be wrapped in curly braces; reason
       unknown
     </div>
   );
